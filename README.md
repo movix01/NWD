@@ -16,4 +16,4 @@ Simple website which allows an easy way to calculate "greatest common divisor". 
 As it is a HTML document all you need is a default text editor like notepad and an internet browser
 
 ## Images
-![Image](./pictures/1.png)
+![Image](./Pictures/1.PNG)
