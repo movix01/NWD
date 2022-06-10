@@ -1,7 +1,7 @@
 # NWD
 
 ## Table of content
-* [General info](#General info)
+* [General info](#General-info)
 * [Technologies](#Technologies)
 * [Setup](#Setup)
 
