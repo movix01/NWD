@@ -1,9 +1,9 @@
 # NWD
 
 ## Table of content
-[General info](#General info)
-[Technologies](#Technologies)
-[Setup](#Setup)
+* [General info](#General info)
+* [Technologies](#Technologies)
+* [Setup](#Setup)
 
 ##General info
 Simple website which allows an easy way to calculate "greatest common divisor". It was made using the JavaScript.
