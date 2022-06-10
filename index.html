@@ -1,0 +1,28 @@
+<! DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8"/>
+    <title>NWD</title>
+	<script type="text/javascript">
+        function NWD()
+		{
+			var a = parseInt(document.getElementById("pierwsza").value);
+			var b = parseInt(document.getElementById("druga").value);
+			while (a!=b)
+			{
+				if (a>b) (a=a-b)
+				else (b=b-a)
+			}
+			document.getElementById("wynik").innerHTML= a; 
+        }
+	</script>
+</head>
+<body>
+	<h1>NWD</h1><br>
+	<p>Podaj liczbe</p><br>
+    <input type="text" id="pierwsza"></input>
+    <input type="text" id="druga"></input>
+    <input type="submit" value="Sprawadzam" onclick="NWD()"></input>
+    <p id="wynik"></div>
+</body>
+</html>
