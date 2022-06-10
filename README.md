@@ -4,7 +4,7 @@
 * [General info](#General-info)
 * [Technologies](#Technologies)
 * [Setup](#Setup)
-
+* [Images](#Images)
 ## General info
 Simple website which allows an easy way to calculate "greatest common divisor". It was made using the JavaScript.
 
@@ -14,3 +14,6 @@ Simple website which allows an easy way to calculate "greatest common divisor". 
 
 ## Setup
 As it is a HTML document all you need is a default text editor like notepad and an internet browser
+
+## Images
+![Image](./pictures/1.png)
